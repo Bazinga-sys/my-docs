@@ -8,7 +8,7 @@ seo:
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+我从丹东来，换你一身雪白
 
 #description
 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
